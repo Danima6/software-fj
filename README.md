@@ -46,3 +46,4 @@ Cada módulo se desarrolla en su propia rama (`feature/cliente`, `feature/servic
 ## Integrantes
 
 - Daniel Esteban Macías Holguín
+- Luis Alberto Dueñas Mosquera
